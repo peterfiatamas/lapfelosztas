@@ -1,0 +1,30 @@
+#head{
+    background-color: orange;
+    padding: 10px;
+    border: 2px dotted black;
+    margin: 0;
+    text-align: center;
+    
+}
+#head h1{
+    text-decoration: overline;
+}
+
+.sor{
+    clear: both;
+}
+
+.bal,.jobb{
+    width: 50%;
+    float: left;
+}
+
+#lab{
+    background-color: orange;
+    padding: 10px;
+    border: 2px dotted black;
+    text-align: center;
+    text-decoration: underline;
+    clear: both;
+}
+
