@@ -1,0 +1,26 @@
+#fej{
+    background-color: red;
+    margin: 20px;
+    border: 0;
+    padding: 3px;
+    text-align: center;
+    font-size: 200%;
+}
+#lab{
+    background-color: red;
+    margin: 20px;
+    border: 0;
+    padding: 3px;
+    text-align: center;
+    font-size: 200%;
+    clear: both;
+}
+.hasab{
+ width: 33%;
+ float: left;
+}
+.felso, .kozepso, .also{
+  width: 33%;
+  clear: both;
+}
+

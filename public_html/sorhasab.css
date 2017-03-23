@@ -2,7 +2,7 @@
     background-color: red;
     padding: 10px;
     border: 0;
-    margin: 0;
+    margin: 3px;
     text-align: center;
     font-size: 200%;
 }
@@ -25,4 +25,7 @@
     text-align: center;
     font-size: 200%;
     clear: both;
+}
+body{
+    background-color: #D6EDFB;
 }
