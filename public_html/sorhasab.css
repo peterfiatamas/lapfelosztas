@@ -1,0 +1,28 @@
+#fej{
+    background-color: red;
+    padding: 10px;
+    border: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 200%;
+}
+.bal, .kozep, .jobb{
+    width: 33%;
+    float: left;
+}
+.sor{
+    clear: both;
+}
+.kozep{
+    text-align: center;
+}
+
+#lab{
+     background-color: red;
+    padding: 10px;
+    border: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 200%;
+    clear: both;
+}

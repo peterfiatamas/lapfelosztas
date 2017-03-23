@@ -1,0 +1,27 @@
+.bal, .jobb{
+  width: 50%;
+  float: left;
+}
+
+.sor{
+   clear: both;
+}
+h1{
+    background-color: red;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 0;
+    text-align: center;
+}
+#lab{
+    background-color: red;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 0;
+    text-align: center;
+    clear: both;
+}
+body{
+    background-color: #CFD5D9;
+    
+}
