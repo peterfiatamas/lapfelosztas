@@ -20,7 +20,14 @@
  float: left;
 }
 .felso, .kozepso, .also{
-  width: 33%;
   clear: both;
+  height: 33%;
+  margin: 20px;
+}
+.kozepso{
+    text-align: center;
+}
+.also{
+    margin: 20px 20px 40px 20px;
 }
 
