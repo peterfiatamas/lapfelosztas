@@ -1,0 +1,30 @@
+.hasab{
+    width: 34%;
+    float: left;
+    background-color: green;
+    padding: 10px;
+    margin: 3%;
+    border: 5px double blue;
+    box-sizing: border-box;
+}
+.hasab-k{
+    width: 52%;
+    float: left;
+    background-color: red;
+    padding: 10px;
+    margin: 3%;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+.kep{
+    box-sizing: border-box;
+}
+.sorok{
+    column-count: 4;
+    column-gap: 10px;
+    column-rule: 2px solid yellow; 
+}
+p{
+    text-decoration: underline;
+    text-decoration-color: white;
+}

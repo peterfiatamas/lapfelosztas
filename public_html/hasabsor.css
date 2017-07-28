@@ -16,13 +16,12 @@
     clear: both;
 }
 .hasab{
- width: 33%;
- float: left;
+    width: 33%;
+    float: left;
 }
 .felso, .kozepso, .also{
-  clear: both;
-  height: 33%;
-  margin: 20px;
+    clear: both;
+    margin: 20px;
 }
 .kozepso{
     text-align: center;

@@ -1,0 +1,16 @@
+
+#test2{
+    width: 50%;
+    float: left;
+}
+h1, h2{
+    background-color: red;
+    padding: 10px;
+    border: 0;
+    margin: 10px;
+    clear: both;
+}
+#tartalom{
+    width: 50%;
+    float: left;
+}

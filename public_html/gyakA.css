@@ -1,0 +1,21 @@
+.hasab-e{
+    width: 30%;
+    float: left;
+}
+.hasab-k{
+    width: 70%;
+    float: left;
+}
+.cimke{
+    background-color: gray;
+    padding: 10px;
+    border: 1px double blue;
+    margin: 10px 0 10px 10px;
+}
+p{
+    margin: 0 0 0 10px;
+}
+.szoveg{
+    position: relative;
+    left: 20px;
+}

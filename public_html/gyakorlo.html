@@ -7,25 +7,44 @@
         <link href="gyakorlo.css" type="text/css" rel="stylesheet" />
     </head>
     <body>
-        <h1>Gyakorlás</h1>
-        <hr />
-        <pre>
-            Ez az oldal a gyakorlás kedvéért jött létre.
-            Senki ne csodálkozzon hogy nincs semmi értelme.
-            Még nem tudok Java Skript parancsokat és a html-ben és css-ben
-            is csak gyakorlok.
-        </pre>
-        <hr />
-        <img src="http://www.flyerz.hu/wp-content/uploads/2015/09/MTMzMzI4NzU1NDAwNjc2NjI2.png"
-             width="325" height="300" alt="Párbaj" />
-        <a href="https://www.youtube.com/watch?v=C-DeI3ohVbY">Az első párbaj</a><br />
-        <p>
-        <div id="kezdo">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/yHfLyMAHrQE"
-                    frameborder="0" allowfullscreen>
+        <script type="text/javascript">
+            var i = 1000;
+            for (var i = 1; i < 1000; i++)
+            {
+                if (i % 2 == 0 && i % 3 == 0 && i % 4 == 0)
+                {
+                    document.write(i);
+                    break;
 
-            </iframe>
-        </div>
-    </p>
-</body>
+                }
+            }
+        </script><br /><hr />
+        <script type="text/javascript">
+            var i = 100;
+            for (i = 1; i < 100; i++)
+            {
+                if (i % 3 == 0)
+                {
+                    continue;
+                }
+                document.write(i +'<br />');
+            }
+        </script>
+        <script type="text/javascript">
+            var szuletesiev = parseInt(window.prompt('Add meg a születési éved!'));
+            var valasz = window.confirm('Biztos hogy'+szuletesiev+'-ban születtlé?');
+            document.write(valasz);
+            /*if( szuletesiev > 2011 || szuletesiev < 1900 || isNaN(szuletesiev)){
+                window.alert('Biztos ekkor születtél?');
+            }*/
+            /*var evszam = 2011;
+            if(evszam-szuletesiev >= 62)
+            {
+                document.write('Nyugdíjas vagy.');
+            }else
+            {
+                document.write('Nem vagy nyugdíjas');
+            }*/
+        </script>
+    </body>
 </html>

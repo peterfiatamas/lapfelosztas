@@ -1,0 +1,18 @@
+#doboz2{
+    width: 50%;
+    float: left;  
+}   
+
+h1, h2{
+    background-color: red;
+    color: yellow;
+    padding: 20px;
+    border: 0;
+    margin: 0;
+}
+body{
+    background-color:greenyellow;
+}
+h2{
+    clear: both;
+}

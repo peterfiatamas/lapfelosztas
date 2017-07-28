@@ -1,0 +1,18 @@
+.menu{
+    border-right: 1px;
+    background-color: #cc0033;
+    border-radius: 10px;
+    background: -moz-linear-gradient(top, #CC0033, #720505 );
+    background: -webkit-linear-gradient(top, #CC0033, #720505 );
+    color: white;
+    width: 140px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    float: left;
+}
+
+.test{
+    margin-top: 20px;
+    text-align: center;
+}

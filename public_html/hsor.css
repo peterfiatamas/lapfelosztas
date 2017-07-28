@@ -19,12 +19,15 @@ h1{
     border: 1px solid black;
     margin: 0;
     text-align: center;
-    clear: both;
 }
 body{
     background-color: #CFD5D9;
     
 }
 #vona{
+   
+}
+.clearfix{
+    height: 0;
     clear: both;
 }
